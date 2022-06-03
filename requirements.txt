@@ -1,0 +1,24 @@
+asgiref==3.5.2
+click==8.1.3
+colorama==0.4.4
+distlib==0.3.4
+Django==4.0.4
+django-phone-field==1.8.1
+djangorestframework==3.13.1
+filelock==3.7.1
+Flask==2.1.2
+GDAL @ file:///C:/Users/NEW%20LAP/Downloads/GDAL-3.3.3-cp310-cp310-win_amd64.whl
+greenlet==1.1.2
+itsdangerous==2.1.2
+Jinja2==3.1.2
+MarkupSafe==2.1.1
+platformdirs==2.5.2
+psycopg2==2.9.3
+pytz==2022.1
+six==1.16.0
+SQLAlchemy==1.4.36
+sqlparse==0.4.2
+tzdata==2022.1
+virtualenv==20.14.1
+Werkzeug==2.1.2
+Django>=3.0,<4.0
